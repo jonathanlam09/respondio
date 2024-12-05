@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# React
+build/
+dist/
+.DS_Store
+
+# Logs
+*.log
+logs/
+*.pid
+*.seed
+
+# Environment Variables
+.env
+
+# Docker
+mysql-data/
+*.pid
+
+# Editor Configs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# System Files
+.DS_Store
+Thumbs.db
